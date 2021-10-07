@@ -43,5 +43,5 @@ all: clean prep compile cheak
             │   └── main.c
             └── test
                 └── test.c
-Висновки?
+3.ВИСНОВКИ
 При виконанні даної л.б. було здобуто практичного досвіду роботи з ОС Linux, утилита tree,git, clone та іншими.
